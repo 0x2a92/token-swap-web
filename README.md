@@ -1,22 +1,14 @@
-# AirSwap Web
-
-[![Discord](https://img.shields.io/discord/590643190281928738.svg)](https://chat.airswap.io) ![Twitter Follow](https://img.shields.io/twitter/follow/airswap?style=social) ![Subreddit subscribers](https://img.shields.io/reddit/subreddit-subscribers/AirSwap?style=social)
-
-[Website](https://www.airswap.io/) · [About](https://about.airswap.io/) · [Twitter](https://twitter.com/airswap) · [Discord](https://chat.airswap.io/)
-
-First, please give us a star! ⭐️
-
 ### Stack
 
 - React
-- NodeJS v16
+- NodeJS v20
 - Yarn
 
 ### Quick start
 
 ```
-$ git clone https://github.com/<YOUR-GITHUB-USER>/airswap-web
-$ cd airswap-web
+$ git clone https://github.com/<YOUR-GITHUB-USER>/token-swap-web
+$ cd token-swap-web
 $ yarn install
 $ yarn start
 ```
@@ -25,6 +17,6 @@ $ yarn start
 
 To enable creation of NFT OTC orders. Use REACT_APP_ALCHEMY_API_KEY to add a alchemy key.
 
-This repo is a peer-to-peer web frontend for AirSwap. AirSwap is an open developer community focused on decentralized trading systems. Designers and developers earn for contributing; check [CONTRIBUTING](CONTRIBUTING.md) and join the [Discord](https://chat.airswap.io/) server to learn more.
+This repo is a peer-to-peer web frontend for AirSwap. AirSwap is an open developer community focused on decentralized trading systems.
 
 Let's build stuff! 🛠️
